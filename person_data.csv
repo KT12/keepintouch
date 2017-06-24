@@ -1,0 +1,12 @@
+,person.id,person.first-name,person.last-name,person.headline,person.picture-url,person.industry,person.summary,person.positions.@total
+0,Jqe07NKzku,Adriano,Yoshino,Data Science and Machine Learning applied to Cities,https://media.licdn.com/mpr/mprx/0_tjDpLttFqeygat2bZucgCzhFKmW8SGlROuUp_Qn6qRn3StlbqJzpaNN6cJ4pathQqJztD8UQgYwTwQjVRmHhDQsE4YwhwQzwZmH06b7b1xYuTKacq0YlQ1TnZIlrGQCsADurTvpLCi6,Computer Software,"I’m a data enthusiast with engineering background. I developed my career in marketing and CRM for automotive industry, working with customer's data to generate insights to increase customer loyalty, enhance online marketing campaigns, optimize sales and make data bright inside the company.
+Since I started my masters in Urban Science + Data Science I felt in love on how data science can help making our life and environment better. I love complex problems and solving it with simple solutions.
+I’m trained as data scientist and have experience in applying  machine learning and deep learning techniques to approach city related problems. 
+
+Data Science Experience: 
+Programming languages: Python, R, Octave, Matlab, SQL, VBA.
+Machine Learning and Deep Learning packages: Scikit Learn, Nltk, TensorFlow, Keras, IBM Watson, H2O.
+Platforms: CartoDB, Salesforce, QGIS, SPSS, QlikView, Apache Hadoop, Apache Spark.
+
+Urban Policy Experience:
+Waste management, Water management, regulatory policy, sustainability, emergency medical services (EMS)",0
