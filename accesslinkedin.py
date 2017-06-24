@@ -48,7 +48,8 @@ tree = ElementTree.fromstring(XML_response.content)
 
 XML_data = xmltodict.parse(XML_response.content)
 
-person_df = json_normalize(XML_data).T # Transpose dataframe
+person_df = json_normalize(XML_data)
 
-idx = person_df.index.values
+idx = person_df.T.index.values
 
+person_df.to_csv('person_data.csv')
