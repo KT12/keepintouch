@@ -6,6 +6,10 @@
 * Identify opportunities to automate the information gathering (Ex. Linkedin, Google, Facebook APIs...)
 * Define sets of actions to improve the information gathering and engagement of alumni and suggest system to improve connection between staff and alumni
 
+#### Exploratory Data Analysis
+EDA notebook [here](https://github.com/KT12/keepintouch/blob/master/per_scholas_eda.ipynb)
+
+
 #### Hackathon Assignment
 
 ##### DATA SCIENCE AND DATA VISUALIZATION TRACK
