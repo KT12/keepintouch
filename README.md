@@ -1,5 +1,5 @@
 ## keepintouch
-NBC Universal Hackathon project for [Per Scholas](https://perscholas.org/)
+[NBC Universal Social Hackathon](http://nycmedialab.org/projects/nbcuniversal-social-hack) project for [Per Scholas](https://perscholas.org/)
 
 ### A social engagement and tracking system/strategy for Per Scholas.
 * Run exploratory analysis and patterns identification on Per Scholas Dataset
